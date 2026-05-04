@@ -1,3 +1,0 @@
-Copy and paste it into PowerShell : irm https://get.activated.win/ | iex
-
-And Type (1) HWID for Windows activation.
