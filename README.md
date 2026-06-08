@@ -4,4 +4,4 @@
 
 **For Activator-Win File Open It In Notepad Or Notepad++**
 
-**Contact Me On Discord :_xx.9**
+**Contact Me On Discord :9jlg**
